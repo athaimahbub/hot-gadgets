@@ -74,6 +74,15 @@
     display: block;
      
   }
+  .container img{
+    width: 100%;
+  }
+  .new-class{
+    border:none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px dimgray;
+    padding: 20px;
+  }
 
 /*.new-underline{
   text-align:center;
